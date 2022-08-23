@@ -8,7 +8,7 @@
 <h2 align="center">
   Segue abaixo imagens de comparação entre o projeto original e o projeto feito por mim:
 </h2>  
-<h4>Projeto Original</h4>
+<h4>Projeto Original:</h4>
 <img src="https://github.com/leehbc/projeto-devclub-CSS/blob/master/pagina-original.png" alt="projeto-original"</img>
-<h4>Projeto modificado</h4>
+<h4>Projeto modificado:</h4>
 <img src="https://github.com/leehbc/projeto-devclub-CSS/blob/master/pagina-leandro.png" alt="projeto-modificado"</img>
