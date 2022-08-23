@@ -38,6 +38,15 @@ p{
     margin-bottom: 55px;
 }
 
+a:hover{
+    opacity: 0.8;
+}
+a:active{
+    opacity: 0.5;
+}
+
+
+
 .img-logo{
     width: 595.18px;
     height: 500px;
@@ -73,6 +82,12 @@ p{
     border-radius: 15px;
     cursor: pointer;
 }
+.button-nav:hover{
+    opacity: 0.8;
+}
+.button-nav:active{
+    opacity: 0.5;
+}
 
 .button-sect{
     font-weight: 500;
@@ -85,4 +100,10 @@ p{
     background: transparent;
     cursor: pointer;
     text-decoration: underline ;
+}
+.button-sect:hover{
+    opacity: 0.8;
+}
+.button-sect:active{
+    opacity: 0.6;
 }
