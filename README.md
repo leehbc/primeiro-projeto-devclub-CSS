@@ -5,7 +5,7 @@
 <p>Um projeto simples onde pude aplicar um pouco do meu conhecimento em <b>HTML</b> e <b>CSS</b>.</p>
 <p>Não foi aplicado responsividade em tal, mas coloquei algumas interações como opacity hover e active nos botões.</p>
 <br>
-<h2 align="center">
+<h2>
   Segue abaixo imagens de comparação entre o projeto original e o projeto feito por mim:
 </h2>  
 <h4>Projeto Original:</h4>
